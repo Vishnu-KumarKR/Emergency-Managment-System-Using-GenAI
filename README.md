@@ -156,7 +156,7 @@ When contributing, please make sure to follow our [Code of Conduct](CODE_OF_COND
 
 ## MIT License
 ```text
-Copyright (c) 2024 Muhammad Fiaz
+Copyright (c) 2024 Vishnu Kumar KR 
 
 Permission is granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the condition that the copyright notice and this permission notice are included in all copies.
 
