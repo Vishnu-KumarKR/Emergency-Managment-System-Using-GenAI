@@ -72,7 +72,7 @@ Below are some screenshots showing the features and layout of the system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/muhammad-fiaz/EMSUGI.git
+   git clone https://github.com/Vishnu-KumarKR/Emergency-Managment-System-Using-GenAI.git
    cd EMSUGI
    ```
 
