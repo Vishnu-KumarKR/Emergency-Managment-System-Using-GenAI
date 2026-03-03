@@ -146,19 +146,7 @@ running, and managing the EMSUGI application in a Docker container.
 - Enter a range of dates and times to generate reports.
 - Visualize the results in various graphical formats.
 
-## Contributing
 
-We welcome contributions! Feel free to submit issues and pull requests to improve the project. 
-When contributing, please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a respectful and collaborative environment for all contributors.
 
-## MIT License
-```text
-Copyright (c) 2024 Vishnu Kumar KR 
 
-Permission is granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the condition that the copyright notice and this permission notice are included in all copies.
-
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors be liable for any claims or damages.
-
-```
-For more details, please refer to the full [LICENSE](LICENSE).
 
