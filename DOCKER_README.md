@@ -18,7 +18,7 @@ The **EMSUGI** application is designed to gather and analyze emergency alerts. I
 Clone the EMSUGI repository from GitHub:
 
 ```bash
-git clone https://github.com/muhammad-fiaz/EMSUGI.git
+git clone https://github.com/Vishnu-KumarKR/Emergency-Managment-System-Using-GenAI.git
 cd EMSUGI
 ```
 
@@ -75,6 +75,3 @@ docker stop <container_id>
 
 If you encounter any issues, ensure that Docker is running properly on your machine, and check for any errors during the build or run processes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
