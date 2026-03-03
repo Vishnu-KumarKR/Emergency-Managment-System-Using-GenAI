@@ -13,8 +13,6 @@
   - [Running with Docker](#running-with-docker)
   - [Folder Structure](#folder-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [MIT License](#mit-license)
 
 ## Project Overview
 
